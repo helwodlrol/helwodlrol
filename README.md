@@ -10,7 +10,6 @@
   <!-- 社交与联系方式徽章 (请将 href 替换为您真实的链接) -->
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://juejin.cn/user/your-id"><img src="https://img.shields.io/badge/掘金-1E80FF?style=for-the-badge&logo=juejin&logoColor=white" alt="Juejin"/></a>
   <a href="https://github.com/helwodlrol"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
@@ -53,30 +52,12 @@
 
 <br/>
 
-## :trophy: GitHub 荣誉与成就 | GitHub Trophies
-
-<div align="center">
-  <!-- 引入了业界非常流行的 GitHub Trophies，展示各项开源成就的等级 (全透明背景适配) -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=helwodlrol&theme=transparent&no-frame=true&no-bg=true&margin-w=15" alt="helwodlrol's Trophies" />
-  </a>
-</div>
-
-<br/>
 
 ## :chart_with_upwards_trend: 开源贡献与代码动态 | Contributions
 
 <div align="center">
   <!-- 动态贡献折线图：已强制设置为固定纯白背景 (bg_color=ffffff)，彻底解决粉红色问题，并使用 GitHub 官方标准蓝 -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=helwodlrol&bg_color=ffffff&color=0366D6&line=0366D6&point=24292E&hide_border=true&title_color=0366D6" alt="Contribution Graph" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- 综合统计与常用语言：使用全透明背景 (theme=transparent) 和高级灰黑/蓝色字体，确保绝不裂开且适配深浅色模式 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=helwodlrol&show_icons=true&theme=transparent&hide_border=true&title_color=0366D6&icon_color=0366D6&text_color=586069" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helwodlrol&layout=compact&theme=transparent&hide_border=true&title_color=0366D6&text_color=586069" alt="Top Languages" width="48%" />
 </div>
 
 <br/>
