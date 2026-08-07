@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <!-- 社交与联系方式徽章 (请将 href 替换为您真实的链接) -->
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <!-- 社交与联系方式徽章 -->
+  <a href="mailto:819379281@qq.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/helwodlrol"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
@@ -21,7 +21,7 @@
 - :computer: **Engineering:** 拥有扎实的 **前后端全栈开发 (Full-Stack)** 能力，热衷于构建高并发、高可用的云原生现代化 Web 系统。
 - :bar_chart: **Data & AI:** 探索 **大数据架构 (Big Data)** 与分布式系统，挖掘海量数据背后的商业价值，推动数据驱动与 AI 赋能的业务创新。
 - :seedling: **Learning:** 持续精进 **AIGC 核心技术**、**Kubernetes 容器化编排** 及下一代微服务架构设计。
-- :speech_balloon: **Ask me about:** Java, Python, Go, 架构设计, 微服务, 数据治理与 AI 落地方案。
+- :speech_balloon: **Ask me about:** Java, Python, React, JavaScript, 架构设计, 微服务, 数据治理与 AI 落地方案。
 - :dart: **Vision:** 将前沿的 AI 技术与复杂的大数据处理能力，转化为真正解决业务痛点的生产力工具。
 
 <br/>
@@ -35,7 +35,7 @@
       <td align="center"><strong>前端与交互<br/>(Frontend Ecosystem)</strong></td>
     </tr>
     <tr>
-      <!-- 去除了 theme=dark，让图标根据浏览器浅色/深色模式自动切换 -->
+      <!-- 图标根据浏览器浅色/深色模式自动切换 -->
       <td align="center"><img src="https://skillicons.dev/icons?i=java,python,go,nodejs,spring,fastapi" alt="Backend" /></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=ts,js,react,vue,html,css,tailwind,vite" alt="Frontend" /></td>
     </tr>
@@ -56,7 +56,7 @@
 ## :chart_with_upwards_trend: 开源贡献与代码动态 | Contributions
 
 <div align="center">
-  <!-- 动态贡献折线图：已强制设置为固定纯白背景 (bg_color=ffffff)，彻底解决粉红色问题，并使用 GitHub 官方标准蓝 -->
+  <!-- 动态贡献折线图 -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=helwodlrol&bg_color=ffffff&color=0366D6&line=0366D6&point=24292E&hide_border=true&title_color=0366D6" alt="Contribution Graph" width="100%" />
 </div>
 
@@ -66,7 +66,7 @@
 
 - :round_pushpin: **Location**: China
 - :octocat: **GitHub**: [@helwodlrol](https://github.com/helwodlrol)
-- :e-mail: **Email**: [Click to reveal](mailto:your.email@example.com) (请替换为您的真实邮箱)
+- :e-mail: **Email**: [Click to reveal](mailto:819379281@qq.com) 
 
 <br/>
 <p align="center">
